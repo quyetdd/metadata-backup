@@ -17,3 +17,7 @@ Usage: _(paste the macrodef XML into your build file)_
     />
 </target>
 ```
+
+change username and password + serverURL in properties
+
+use : ant backup
